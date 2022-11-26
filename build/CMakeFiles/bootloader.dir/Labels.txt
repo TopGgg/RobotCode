@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/media/adarw/Data/Documents/Programing/cpp/robot/esp/espCodeIdf/espcode/espCode/espCode/build/CMakeFiles/bootloader
+/media/adarw/Data/Documents/Programing/cpp/robot/esp/espCodeIdf/espcode/espCode/espCode/build/CMakeFiles/bootloader.rule
+/media/adarw/Data/Documents/Programing/cpp/robot/esp/espCodeIdf/espcode/espCode/espCode/build/CMakeFiles/bootloader-complete.rule
+/media/adarw/Data/Documents/Programing/cpp/robot/esp/espCodeIdf/espcode/espCode/espCode/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/media/adarw/Data/Documents/Programing/cpp/robot/esp/espCodeIdf/espcode/espCode/espCode/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/media/adarw/Data/Documents/Programing/cpp/robot/esp/espCodeIdf/espcode/espCode/espCode/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/media/adarw/Data/Documents/Programing/cpp/robot/esp/espCodeIdf/espcode/espCode/espCode/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/media/adarw/Data/Documents/Programing/cpp/robot/esp/espCodeIdf/espcode/espCode/espCode/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/media/adarw/Data/Documents/Programing/cpp/robot/esp/espCodeIdf/espcode/espCode/espCode/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/media/adarw/Data/Documents/Programing/cpp/robot/esp/espCodeIdf/espcode/espCode/espCode/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
