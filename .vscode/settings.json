@@ -8,5 +8,8 @@
         "board/esp32-wrover-kit-3.3v.cfg"
     ],
     "idf.pythonBinPath": "/home/adarw/.espressif/python_env/idf5.0_py3.10_env/bin/python",
-    "idf.toolsPath": "/home/adarw/.espressif"
+    "idf.toolsPath": "/home/adarw/.espressif",
+    "files.associations": {
+        "*.ipp": "cpp"
+    }
 }

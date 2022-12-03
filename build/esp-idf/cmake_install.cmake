@@ -12,7 +12,7 @@ if(NOT DEFINED CMAKE_INSTALL_CONFIG_NAME)
     string(REGEX REPLACE "^[^A-Za-z0-9_]+" ""
            CMAKE_INSTALL_CONFIG_NAME "${BUILD_TYPE}")
   else()
-    set(CMAKE_INSTALL_CONFIG_NAME "")
+    set(CMAKE_INSTALL_CONFIG_NAME "Debug")
   endif()
   message(STATUS "Install configuration: \"${CMAKE_INSTALL_CONFIG_NAME}\"")
 endif()
@@ -123,6 +123,9 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("/media/adarw/Data/Documents/Programing/cpp/robot/esp/espCodeIdf/espcode/espCode/espCode/build/esp-idf/wifi_provisioning/cmake_install.cmake")
   include("/media/adarw/Data/Documents/Programing/cpp/robot/esp/espCodeIdf/espcode/espCode/espCode/build/esp-idf/main/cmake_install.cmake")
   include("/media/adarw/Data/Documents/Programing/cpp/robot/esp/espCodeIdf/espcode/espCode/espCode/build/esp-idf/arduino/cmake_install.cmake")
+  include("/media/adarw/Data/Documents/Programing/cpp/robot/esp/espCodeIdf/espcode/espCode/espCode/build/esp-idf/AsyncTCP/cmake_install.cmake")
+  include("/media/adarw/Data/Documents/Programing/cpp/robot/esp/espCodeIdf/espcode/espCode/espCode/build/esp-idf/ESPAsyncWebServer/cmake_install.cmake")
+  include("/media/adarw/Data/Documents/Programing/cpp/robot/esp/espCodeIdf/espcode/espCode/espCode/build/esp-idf/esp32-camera/cmake_install.cmake")
 
 endif()
 

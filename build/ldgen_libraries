@@ -71,3 +71,6 @@
 /media/adarw/Data/Documents/Programing/cpp/robot/esp/espCodeIdf/espcode/espCode/espCode/build/esp-idf/wifi_provisioning/libwifi_provisioning.a
 /media/adarw/Data/Documents/Programing/cpp/robot/esp/espCodeIdf/espcode/espCode/espCode/build/esp-idf/main/libmain.a
 /media/adarw/Data/Documents/Programing/cpp/robot/esp/espCodeIdf/espcode/espCode/espCode/build/esp-idf/arduino/libarduino.a
+/media/adarw/Data/Documents/Programing/cpp/robot/esp/espCodeIdf/espcode/espCode/espCode/build/esp-idf/AsyncTCP/libAsyncTCP.a
+/media/adarw/Data/Documents/Programing/cpp/robot/esp/espCodeIdf/espcode/espCode/espCode/build/esp-idf/ESPAsyncWebServer/libESPAsyncWebServer.a
+/media/adarw/Data/Documents/Programing/cpp/robot/esp/espCodeIdf/espcode/espCode/espCode/build/esp-idf/esp32-camera/libesp32-camera.a
